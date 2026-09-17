@@ -27,7 +27,7 @@ services:
 
 
   flask-app:
-    image: Chandu2411/two-tier-flask-app:latest
+    image: chandu2411/two-tier-flask-app:latest
     container_name: flask-app
 
     ports:
